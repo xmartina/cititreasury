@@ -6,7 +6,7 @@ define("WEB_EMAIL","contact@cititreasury.online"); // Change Your Website Email
 
 $web_url = WEB_URL;
 function support_plugin(){
-    require_once ('/support_plugin.php');
+    require_once 'support_plugin.php';
 }
 
 function dbConnect(){
