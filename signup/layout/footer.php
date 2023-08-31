@@ -96,6 +96,6 @@
 
 </script>
 <!--Tidio Support-->
-<script src="//code.tidio.co/9xoykgyjrqzizftshxs5hogcis2ltu0f.js" async></script>
+<?php support_plugin() ?>
 </body>
 </html>

@@ -328,7 +328,7 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 
 <!--Tidio Plugin-->
-<script src="//code.tidio.co/9xoykgyjrqzizftshxs5hogcis2ltu0f.js" async></script>
+<?php support_plugin() ?>
 <!--End Tidio Plugin-->
 </body>
 </html>
